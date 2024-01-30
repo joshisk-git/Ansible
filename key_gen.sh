@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash/r
 
 # THIS SCRIPT WILL CREATE SSH KEYPAIR AND DISTRIBUTE ACROSS ALL NODES
 
